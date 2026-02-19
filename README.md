@@ -1,6 +1,6 @@
 # 🩺📱 Kolonoskopi Hazırlık Uygulaması
 
-## 🇹🇷 Türkçe
+## Türkçe
 
 Bu mobil uygulama, kullanıcıların **kolonoskopi öncesi hazırlık sürecini**
 adım adım öğrenmelerine ve **antibiyotik hazırlama sıralamasını**
@@ -23,7 +23,7 @@ https://youtube.com/shorts/0odBB3psDmc?si=zRRUNXSMddQkagLV
 ### 🛠 Kullanılan Teknolojiler
 - React Native  
 - Expo  
-- JavaScript  
+- TypeScript / JavaScript  
 
 ### 🚀 Lokal Çalıştırma
 
@@ -32,7 +32,7 @@ npm install
 npx expo start
 ```
 
-## 🇬🇧 English
+## English
 
 This mobile application was developed to help users **learn the colonoscopy
 preparation process step by step** and **practice the antibiotic preparation
@@ -55,7 +55,7 @@ https://youtube.com/shorts/0odBB3psDmc?si=zRRUNXSMddQkagLV
 ### 🛠 Technologies Used
 - React Native  
 - Expo  
-- JavaScript  
+- TypeScript / JavaScript  
 
 ### 🚀 Run Locally
 
